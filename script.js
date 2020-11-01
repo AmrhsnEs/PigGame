@@ -91,5 +91,4 @@ function name (){
 	}
 	
     
-// var x = document.querySelector('#score--0').textContent;
-// console.log(x);
+//Powered by Amirhossein
